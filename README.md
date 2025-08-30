@@ -1,4 +1,4 @@
-# projects
+# weather app
 
 🌤 Weather App
 
